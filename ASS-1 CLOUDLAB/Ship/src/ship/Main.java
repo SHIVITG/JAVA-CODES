@@ -15,7 +15,7 @@ public class Main {
       for (int index = 0; index < 3; index++)
       {
          System.out.println(ships[index]);
-         System.out.println("----------------------------");
+         System.out.println("Output : ");
       }
    }
 }
